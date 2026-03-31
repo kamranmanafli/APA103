@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exeptions\\invalidusernameexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exeptions\\invalidusernameexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\models\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\models\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exeptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exeptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exeptions\\invalidpasswordexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exeptions\\invalidpasswordexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exeptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exeptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\exeptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E3D769-E8C3-4125-9366-CA3298920724}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\exeptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncorrectPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\IncorrectPasswordException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\IncorrectPasswordException.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\IncorrectPasswordException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\IncorrectPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:25:03.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:08:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidPasswordExeptions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidPasswordExeptions.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidPasswordExeptions.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidPasswordExeptions.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidPasswordExeptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:17:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:03:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidUsernameExeptions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidUsernameExeptions.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidUsernameExeptions.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidUsernameExeptions.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\InvalidUsernameExeptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:14:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:04:44.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountLockedException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\AccountLockedException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\AccountLockedException.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\AccountLockedException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\AccountLockedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:28:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Exeptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Exeptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:21:10.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
