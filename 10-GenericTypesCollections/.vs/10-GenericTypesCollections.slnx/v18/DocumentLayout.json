@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\generics\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\generics\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\10-generictypescollections\\10-generictypescollections\\10-generictypescollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29FA9A84-E339-43D5-B151-11F771A5DE45}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\10-generictypescollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Managers\\BookManager.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Managers\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Managers\\BookManager.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Managers\\BookManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:14:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Generics\\Library.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Generics\\Library.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Generics\\Library.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Generics\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:14:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "10-GenericTypesCollections",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\10-GenericTypesCollections.csproj",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\10-GenericTypesCollections.csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\10-GenericTypesCollections.csproj",
+              "RelativeToolTip": "10-GenericTypesCollections\\10-GenericTypesCollections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T15:13:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Member.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\Member.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:13:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Book.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:13:24.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Program.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\10-GenericTypesCollections\\10-GenericTypesCollections\\Program.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:12:27.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
