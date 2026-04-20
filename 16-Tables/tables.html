@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .column{
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .column2{
+            border: 2px solid black;
+            padding: 8px;
+        }
+         #head{
+            text-decoration: underline;
+         }
+
+         .header{
+            font-weight: bold;
+         }
+
+         .column3{
+            border: 1px solid black;
+            padding: 10px;
+         }
+    </style>
+</head>
+<body>
+
+<table border="1" style="border-collapse: separate; border-spacing: 2px;">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Harry Depp</td>
+            <td>28</td>
+            <td>Britain</td>
+        </tr>
+        <tr>
+            <td>John Smith</td>
+            <td>35</td>
+            <td>USA</td>
+        </tr>
+        <tr>
+            <td>Ram Krisha</td>
+            <td>19</td>
+            <td>Nepal</td>
+        </tr>
+    </tbody>
+</table>
+
+<table border="1" style="border-collapse: separate; border-spacing: 10px; width: 200px;">
+    <tr>
+        <th class="column">Product</th>
+        <th class="column">Quantitiy</th>
+    </tr>
+    <tr>
+        <td class="column">Butter</td>
+        <td class="column">3 Kilograms</td>
+    </tr>
+    <tr>
+        <td class="column">Milk</td>
+        <td class="column">3 Letres</td>
+    </tr>
+</table>
+
+<table border="1" style="border-collapse: seperate; text-align: center;">
+    <thead>
+        <tr>
+            <th colspan="2" style="padding: 10px;">Prtoduct Info</th>
+        </tr>
+        <tr>
+            <th style="padding: 20px; width: 10px;">Product</th>
+            <th style="padding: 20px; width: 10px;">Flavors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3" style="padding: 20px;">Milk</td>
+            <td style="padding: 10px;">Almond</td>  
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Mango</td>  
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Chocolate</td>  
+        </tr>
+        <tr>
+            <td colspan="2" style="padding: 10px;">These are exclusive flavors</td>  
+        </tr>
+    </tbody>
+</table>
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <tr>
+        <td rowspan="6">section</td>
+        <td rowspan="3">subsection 1</td>
+        <td>text1</td>
+    </tr>
+    <tr>
+        <td>text2</td>
+    </tr>
+    <tr>
+        <td>text3</td>
+    </tr>
+    <tr>
+        <td rowspan="2">subsection 2</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>subsection 3</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>    
+
+<table style="width: 50%; border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr>
+            <th id="head" class="column2">ID</th>
+            <th id="head" class="column2">Name</th>
+            <th id="head" class="column2">Subject</th>
+            <th id="head" class="column2">Marks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="column2" rowspan="3">1</td>
+            <td class="column2" rowspan="3">David</td>
+            <td class="column2">Maths</td>
+            <td class="column2">80</td>
+        </tr>
+        <tr>
+            <td class="column2">Physics</td>
+            <td class="column2">90</td>
+        </tr>
+        <tr>
+            <td class="column2">Computers</td>
+            <td class="column2">70</td>
+        </tr>
+        <tr>
+            <td class="column2" rowspan="3">2</td>
+            <td class="column2" rowspan="3">Alex</td>
+            <td class="column2">Maths</td>
+            <td class="column2">80</td>
+        </tr>
+        <tr>
+            <td class="column2">Physics</td>
+            <td class="column2">70</td>
+        </tr>
+        <tr>
+            <td class="column2">Computers</td>
+            <td class="column2"> 90</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 80%; border-collapse: collapse; text-align: center; margin: 20px auto;">
+    <tr>
+        <th class="column3" colspan="6">Time Table</th>
+    </tr>
+
+    <tr class="header">
+        <th class="column3" rowspan="5">Hours</th>
+        <th class="column3">Mon</th>
+        <th class="column3">Tue</th>
+        <th class="column3">Wed</th>
+        <th class="column3">Thu</th>
+        <th class="column3">Fri</th>
+    </tr>
+
+    <tr>
+        <td class="column3">Computer</td>
+        <td class="column3">Maths</td>
+        <td class="column3">Computer</td>
+        <td class="column3">Maths</td>
+        <td class="column3">Arts</td>
+    </tr>
+
+    <tr class="header">
+        <td class="column3" colspan="5">LUNCH</td>
+    </tr>
+
+    <tr>
+        <td class="column3" >Computer</td>
+        <td class="column3" >Maths</td>
+        <td class="column3" >Computer</td>
+        <td class="column3" >Maths</td>
+        <td class="column3" rowspan="2">Project</td>
+    </tr>
+    <tr>
+        <td class="column3" >Computer</td>
+        <td class="column3" >Maths</td>
+        <td class="column3" >Computer</td>
+        <td class="column3" >Maths</td>
+        <td></td>
+        
+    </tr>
+    
+    
+    
+
+
+</table>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    
+    <tr>
+        <td rowspan="2">A</td>
+        <td>B</td>
+        <td rowspan="3">D</td>
+        <td colspan="2">E</td>
+        <td>F</td>
+    </tr>
+
+    <tr>
+        <td>C</td>
+        <td rowspan="2">G</td>
+        <td rowspan="2">H</td>
+        <td rowspan="2">I</td>
+    </tr>
+
+    <tr>
+        <td colspan="2">J</td>
+    </tr>
+
+    <tr>
+        <td colspan="3">K</td>
+        <td>L</td>
+        <td colspan="2">M</td>
+
+    </tr>
+</table>
+
+</body>
+</html>
