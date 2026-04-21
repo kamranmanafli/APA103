@@ -1,0 +1,74 @@
+body {
+    background-color: #2c2c2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.vintage-card {
+    background-color: #f1ebd8;
+    width: 600px;
+    padding: 60px 20px;
+    text-align: center;
+    position: relative;
+    border: 1px solid #d3ccb4;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.main-title {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 100px;
+    margin: 0;
+    color: #1a1a1a;
+    font-weight: normal;
+}
+
+.the-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    letter-spacing: 8px;
+    color: #a67c52;
+    margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.font-family {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    letter-spacing: 8px;
+    color: #a67c52;
+    margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.description {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    color: #1a1a1a;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+.crafted-text {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 22px;
+    color: #a67c52;
+    font-style: italic;
+}
+
+.footer-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #a67c52;
+    color: #f1ebd8;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+

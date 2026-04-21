@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #4facfe 0%, #9100ff 100%);
+}
+
+.login-container {
+    background: white;
+    width: 350px;
+    padding: 30px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.close-btn {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #000;
+}
+
+h2 {
+    margin-bottom: 25px;
+    font-size: 24px;
+    color: #000;
+}
+
+.input-group {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+}
+
+.forgot-pass {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    color: #4facfe;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 3px;
+    background: linear-gradient(to right, #4facfe, #9100ff);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: opacity o.3s;
+}
+
+.login-btn:hover {
+    opacity: 0.9;
+}
+
+.signup-text {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
+
+.signup-text a {
+    color: #4facfe;
+    text-decoration: none;
+}
