@@ -1,0 +1,51 @@
+.container {
+  position: relative;
+  width: 800px;
+  margin: 50px auto;
+}
+
+.card {
+  position: absolute;
+  width: 200px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  background: #eee;
+  padding: 20px;
+}
+
+.card p {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.card span {
+  color: orange;
+  font-weight: bold;
+}
+
+
+.card:nth-child(1) {
+  top: 0;
+  left: 0;
+}
+
+.card:nth-child(2) {
+  top: 0;
+  left: 260px;
+}
+
+.card:nth-child(3) {
+  top: 0;
+  left: 520px;
+}
+
+.card:nth-child(4) { top: 450px; left: 0; }
+.card:nth-child(5) { top: 450px; left: 260px; }
+.card:nth-child(6) { top: 450px; left: 520px; }
+
+.card:nth-child(7) { top: 900px; left: 0; }
+.card:nth-child(8) { top: 900px; left: 260px; }
+.card:nth-child(9) { top: 900px; left: 520px; }
