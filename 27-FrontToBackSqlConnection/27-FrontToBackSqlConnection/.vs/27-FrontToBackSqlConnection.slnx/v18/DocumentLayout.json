@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\apa103\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{194DC090-59E9-2B80-C2F4-53A50FBCB1A3}|27-FrontToBackSqlConnection.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:07:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:28:21.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T19:03:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:03:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "ViewModel\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:25:40.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T17:56:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T17:55:52.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:55:16.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:41:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T17:36:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\APA103\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPkEAAAAAAAAAAAvwBUFAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T17:10:10.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
