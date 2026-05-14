@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿﻿
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,16 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Majestic Admin</title>
     <!-- plugins:css -->
-    <link rel="stylesheet" href="~/Admin/vendors/mdi/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="~/Admin/vendors/base/vendor.bundle.base.css">
+    <link rel="stylesheet" href="~/admin/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/admin/vendors/base/vendor.bundle.base.css">
     <!-- endinject -->
     <!-- plugin css for this page -->
-    <link rel="stylesheet" href="~/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+    <link rel="stylesheet" href="~/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
     <!-- End plugin css for this page -->
     <!-- inject:css -->
-    <link rel="stylesheet" href="~/Admin/css/style.css">
+    <link rel="stylesheet" href="~/admin/css/style.css">
     <!-- endinject -->
-    <link rel="shortcut icon" href="~/Admin/images/favicon.png" />
+    <link rel="shortcut icon" href="~/admin/images/favicon.png" />
 </head>
 <body>
     <div class="container-scroller">
@@ -42,8 +43,8 @@
         <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
             <div class="navbar-brand-wrapper d-flex justify-content-center">
                 <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">
-                    <a class="navbar-brand brand-logo" href="index.html"><img src="~/Admin/images/logo.svg" alt="logo" /></a>
-                    <a class="navbar-brand brand-logo-mini" href="index.html"><img src="~/Admin/images/logo-mini.svg" alt="logo" /></a>
+                    <a class="navbar-brand brand-logo" href="index.html"><img src="~/admin/images/logo.svg" alt="logo" /></a>
+                    <a class="navbar-brand brand-logo-mini" href="index.html"><img src="~/admin/images/logo-mini.svg" alt="logo" /></a>
                     <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
                         <span class="mdi mdi-sort-variant"></span>
                     </button>
@@ -72,7 +73,7 @@
                             <p class="mb-0 font-weight-normal float-left dropdown-header">Messages</p>
                             <a class="dropdown-item">
                                 <div class="item-thumbnail">
-                                    <img src="~/Admin/images/faces/face4.jpg" alt="image" class="profile-pic">
+                                    <img src="~/admin/images/faces/face4.jpg" alt="image" class="profile-pic">
                                 </div>
                                 <div class="item-content flex-grow">
                                     <h6 class="ellipsis font-weight-normal">
@@ -85,7 +86,7 @@
                             </a>
                             <a class="dropdown-item">
                                 <div class="item-thumbnail">
-                                    <img src="~/Admin/images/faces/face2.jpg" alt="image" class="profile-pic">
+                                    <img src="~/admin/images/faces/face2.jpg" alt="image" class="profile-pic">
                                 </div>
                                 <div class="item-content flex-grow">
                                     <h6 class="ellipsis font-weight-normal">
@@ -98,7 +99,7 @@
                             </a>
                             <a class="dropdown-item">
                                 <div class="item-thumbnail">
-                                    <img src="~/Admin/images/faces/face3.jpg" alt="image" class="profile-pic">
+                                    <img src="~/admin/images/faces/face3.jpg" alt="image" class="profile-pic">
                                 </div>
                                 <div class="item-content flex-grow">
                                     <h6 class="ellipsis font-weight-normal">
@@ -161,7 +162,7 @@
                     </li>
                     <li class="nav-item nav-profile dropdown">
                         <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" id="profileDropdown">
-                            <img src="~/Admin/images/faces/face5.jpg" alt="profile" />
+                            <img src="~/admin/images/faces/face5.jpg" alt="profile" />
                             <span class="nav-profile-name">Louis Barnett</span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
@@ -200,8 +201,8 @@
                         </a>
                         <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/buttons.html">Buttons</a></li>
-                                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Typography</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="category" asp-action="index">Category</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="slider" asp-action="index">Slider</a></li>
                             </ul>
                         </div>
                     </li>
@@ -256,7 +257,7 @@
             <!-- partial -->
             <div class="main-panel">
                 <div class="content-wrapper">
-        @RenderBody()
+                    @RenderBody()
                 </div>
                 <!-- content-wrapper ends -->
                 <!-- partial:partials/_footer.html -->
@@ -274,26 +275,27 @@
     </div>
     <!-- container-scroller -->
     <!-- plugins:js -->
-    <script src="~/Admin/vendors/base/vendor.bundle.base.js"></script>
-    <!-- endinject -->
-    <!-- Plugin js for this page-->
-    <script src="~/Admin/vendors/chart.js/Chart.min.js"></script>
-    <script src="~/Admin/vendors/datatables.net/jquery.dataTables.js"></script>
-    <script src="~/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
-    <!-- End plugin js for this page-->
-    <!-- inject:js -->
-    <script src="~/Admin/js/off-canvas.js"></script>
-    <script src="~/Admin/js/hoverable-collapse.js"></script>
-    <script src="~/Admin/js/template.js"></script>
-    <!-- endinject -->
-    <!-- Custom js for this page-->
-    <script src="~/Admin/js/dashboard.js"></script>
-    <script src="~/Admin/js/data-table.js"></script>
-    <script src="~/Admin/js/jquery.dataTables.js"></script>
-    <script src="~/Admin/js/dataTables.bootstrap4.js"></script>
-    <!-- End custom js for this page-->
+    <script src="~/admin/vendors/base/vendor.bundle.base.js">
+        <<script src="~/admin/vendors/script>
+        <!-- endinject -->
+        <!-- Plugin js for this page-->
+        <script src="~/admin/vendors/chart.js/Chart.min.js"></script>
+        <script src="~/admin/vendors/datatables.net/jquery.dataTables.js"></script>
+        <script src="~/admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+        <!-- End plugin js for this page-->
+        <!-- inject:js -->
+        <script src="~/admin/js/off-canvas.js"></script>
+        <script src="~/admin/js/hoverable-collapse.js"></script>
+        <script src="~/admin/js/template.js"></script>
+        <!-- endinject -->
+        <!-- Custom js for this page-->
+        <script src="~/admin/js/dashboard.js"></script>
+        <script src="~/admin/js/data-table.js"></script>
+        <script src="~/admin/js/jquery.dataTables.js"></script>
+        <script src="~/admin/js/dataTables.bootstrap4.js"></script>
+        <!-- End custom js for this page-->
 
-    <script src="~/Admin/js/jquery.cookie.js" type="text/javascript"></script>
-</body>
+        <script src="~/admin/js/jquery.cookie.js" type="text/javascript"></script>
+    </body>
 
 </html>
